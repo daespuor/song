@@ -1,0 +1,17 @@
+{
+  "name": "song",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Daniel Puerta",
+  "license": "ISC",
+  "dependencies": {
+    "gsap": "^3.9.0",
+    "parcel-bundler": "^1.12.5"
+  }
+}
